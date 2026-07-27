@@ -1,13 +1,13 @@
 <!-- Banner / Cover -->
-<p align="center">
+<!-- <p align="center">
   <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="header image" />
-</p>
+</p> -->
 
-<h1 align="center">Hi, I’m ⟪YOUR NAME⟫ <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+<h1 align="center">Hi, I’m Naree Saeyang <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
-  <strong>Full-stack Engineer • Tech Educator • Lifelong Learner</strong><br/>
-  <em>“Turning ideas into delightful, scalable software.”</em>
+  <strong>Frontend Engineer • UI/UX Enthusiast • Lifelong Learner</strong><br/>
+  <em>“Crafting delightful, pixel-perfect, and engaging web experiences.”</em>
 </p>
 
 ---
