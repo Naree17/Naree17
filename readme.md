@@ -31,14 +31,22 @@
 | **Tools** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) |
 
 </div>
+
 ---
 
 ## 📌 Featured Projects
+<div align="center">
+
 | Project | Tech | Highlights | Links |
 |---------|------|-----------|-------|
 | **Campus food delivery** | Flutter · Java SpringBoot · PostgreSQL | Duo Project Mobile | [Repo](https://github.com/Naree17) |
 | **Japanese-Language Proficiency Test** | JSP · Java SpringBoot · MySQL | Duo Project Website | [Repo](https://github.com/Naree17) |
+
+</div>
+
 ---
+
+
 
 ## ✍🏻 Recent Blog / Talks
 <!-- GH Action can automate this section; placeholder for manual list -->
