@@ -59,7 +59,7 @@
 
 - 💌 Email: 098579kl@gmail.com 
 - 📝 Schedule a coffee chat: ⟪Calendly link⟫  
-- 🐦 Connect with me on [Facebook]([ลิงก์เฟสบุ๊คของคุณ](https://www.facebook.com/naree.saeyang.12))
+- 🐦 Connect with me on [Facebook]((https://www.facebook.com/naree.saeyang.12))
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
