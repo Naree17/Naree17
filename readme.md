@@ -39,8 +39,8 @@
 
 | Project | Tech | Highlights | Links |
 |---------|------|-----------|-------|
-| **Campus food delivery** | Flutter · Java SpringBoot · PostgreSQL | Duo Project Mobile | [Repo](https://github.com/Naree17) |
-| **Japanese-Language Proficiency Test** | JSP · Java SpringBoot · MySQL | Duo Project Website | [Repo](https://github.com/Naree17) |
+| **Campus food delivery** | Flutter · Java SpringBoot · PostgreSQL | Duo Project Mobile | [Repo] |
+| **Japanese-Language Proficiency Test** | JSP · Java SpringBoot · MySQL | Duo Project Website | [Repo]([https://github.com/Naree17](https://github.com/NC-Kaito/jlpt-web-project)) |
 
 </div>
 
@@ -58,7 +58,7 @@
 > **“Great products are built by great people working together.”**
 
 - 💌 Email: 098579kl@gmail.com 
-- 📝 Schedule a coffee chat: ⟪Calendly link⟫  
+- 📝 Resume: [View Resume]()
 - 🐦 Facebook: [Na Ree](https://www.facebook.com/naree.saeyang.12)
 
 <p align="center">
