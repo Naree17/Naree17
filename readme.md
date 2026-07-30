@@ -46,9 +46,6 @@
 
 ---
 
-
-
-
 ## 📈 GitHub Stats
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Naree17&show_icons=true&hide_border=true" />
@@ -60,9 +57,9 @@
 ## 🤝 Let’s Connect
 > **“Great products are built by great people working together.”**
 
-- 💌 Email: ⟪email@example.com⟫  
+- 💌 Email: 098579kl@gmail.com 
 - 📝 Schedule a coffee chat: ⟪Calendly link⟫  
-- 🐦 DM me on [X/Twitter](⟪url⟫)
+- 🐦 Connect with me on [Facebook]([ลิงก์เฟสบุ๊คของคุณ](https://www.facebook.com/naree.saeyang.12))
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
