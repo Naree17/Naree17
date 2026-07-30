@@ -58,7 +58,7 @@
 > **“Great products are built by great people working together.”**
 
 - 💌 Email: 098579kl@gmail.com 
-- 📝 Resume: [View Resume](https://drive.google.com/drive/home)
+- 📝 Resume: [View Resume](https://drive.google.com/file/d/1tDvjWuJI0KQE44xF1PD_jE6aoF_ZRmUC/view?usp=sharing)
 - 🐦 Facebook: [Na Ree](https://www.facebook.com/naree.saeyang.12)
 
 <p align="center">
