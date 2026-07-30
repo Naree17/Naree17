@@ -39,7 +39,7 @@
 
 | Project | Tech | Highlights | Links |
 |---------|------|-----------|-------|
-| **Campus food delivery** | Flutter · Java SpringBoot · PostgreSQL | Duo Project Mobile | [Repo] |
+| **Campus food delivery** | Flutter · Java SpringBoot · PostgreSQL | Duo Project Mobile | [Repo](https://github.com/Naree17/campus-food-delivery) |
 | **Japanese-Language Proficiency Test** | JSP · Java SpringBoot · MySQL | Duo Project Website | [Repo](https://github.com/Naree17/jlpt-web-project) |
 
 </div>
