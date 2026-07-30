@@ -48,18 +48,11 @@
 
 
 
-## ✍🏻 Recent Blog / Talks
-<!-- GH Action can automate this section; placeholder for manual list -->
-- ⟪May 2025⟫ • **Observable-Ready Dashboards** at BangkokJS  
-- ⟪Apr 2025⟫ • Published *“Scalable Monorepo Patterns”* on Medium  
-- ⟪Mar 2025⟫ • Panel speaker at DevCon Asia: *Modern DevOps*
-
----
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=⟪USERNAME⟫&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=⟪USERNAME⟫&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Naree17&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naree17&layout=compact&hide_border=true" />
 </div>
 
 ---
