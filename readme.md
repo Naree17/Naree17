@@ -48,8 +48,8 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Naree17&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naree17&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Naree17&show_icons=true&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Naree17&layout=compact&hide_border=true&count_private=true" />
 </div>
 
 ---
@@ -62,5 +62,5 @@
 - 🐦 Facebook: [Na Ree](https://www.facebook.com/naree.saeyang.12)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Naree17&style=flat-square" alt="profile views"/>
 </p>
