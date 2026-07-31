@@ -16,7 +16,7 @@
 - 🌱 I'm currently learning Advanced Frontend Web Development 
 - 🛠  Daily driver stack: Java, Spring Boot, JavaScript, HTML, CSS, Flutter, Dart  
 - 🎯 Goal: Securing a Frontend Developer internship
-- 📫 Reach me: 098579kl@gmail.com | GitHub
+- 📫 Reach me: 098579kl@gmail.com
 
 ---
 
