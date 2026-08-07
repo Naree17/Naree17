@@ -100,7 +100,7 @@ valuable team member.
     </td>
     <td width="33%" valign="top">
       <b>Page : Admin Dashboard</b><br>
-      <img src="" width="100%" alt="Admin Dashboard">
+      <img src="admim1.png" width="100%" alt="Admin Dashboard">
     </td>
     <td width="34%" rowspan="2" valign="top">
       <b>📄 Overview</b><br>
