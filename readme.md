@@ -142,6 +142,4 @@ valuable team member.
 - 📝 Resume: [View Resume](https://drive.google.com/file/d/1LpuSi9iwIGE24b-ztPjWMuPsHQDaOvYa/view?usp=sharing)
 - 🐦 Facebook: [Na Ree](https://www.facebook.com/naree.saeyang.12)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Naree17&style=flat-square" alt="profile views"/>
-</p>
+
