@@ -96,11 +96,11 @@ valuable team member.
   <tr>
     <td width="33%" valign="top">
       <b>Page : Restaurant Module</b><br>
-      <img src="rest1.png" width="100%" alt="Restaurant Module">
+      <img src="rest2.png" width="100%" alt="Restaurant Module">
     </td>
     <td width="33%" valign="top">
       <b>Page : Admin Dashboard</b><br>
-      <img src="rest2.png" width="100%" alt="Admin Dashboard">
+      <img src="" width="100%" alt="Admin Dashboard">
     </td>
     <td width="34%" rowspan="2" valign="top">
       <b>📄 Overview</b><br>
