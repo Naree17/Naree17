@@ -3,16 +3,24 @@
   <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="header image" />
 </p> -->
 
-<h1 align="center">Hi, I’m Naree Saeyang <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+<div align="center">
+
+# ✧ N A R E E ✧
+### IT Student of Maejo University
+
+</div>
 
 <p align="center">
-  <strong>Frontend Engineer • UI/UX Enthusiast • Lifelong Learner</strong><br/>
+  <strong>Frontend Developer • UI/UX Enthusiast • Lifelong Learner</strong><br/>
   <em>“Crafting delightful, pixel-perfect, and engaging web experiences.”</em>
 </p>
 
 ---
 
 ## 🚀 About Me
+Fourth-year Information Technology student in the Faculty of Science at Maejo University, seeking a Frontend Developer internship. I have experience in building web applications with HTML, CSS, and JavaScript. I also built a mobile application for my senior project using Flutter and Dart. I focus on creating beautiful
+and easy-to-use UI/UX for users. I am ready to learn real work in an organization and use my skills to do good quality work, learn continuously, and become a
+valuable team member.
 - 🌱 I'm currently learning Advanced Frontend Web Development 
 - 🛠  Daily driver stack: Java, Spring Boot, JavaScript, HTML, CSS, Flutter, Dart  
 - 🎯 Goal: Securing a Frontend Developer internship
@@ -58,7 +66,7 @@
 > **“Great products are built by great people working together.”**
 
 - 💌 Email: 098579kl@gmail.com 
-- 📝 Resume: [View Resume](https://drive.google.com/file/d/1VyiCjRb4_HvjR1fQOmMRX0gB6zWbZW9A/view?usp=sharing)
+- 📝 Resume: [View Resume](https://drive.google.com/file/d/1LpuSi9iwIGE24b-ztPjWMuPsHQDaOvYa/view?usp=sharing)
 - 🐦 Facebook: [Na Ree](https://www.facebook.com/naree.saeyang.12)
 
 <p align="center">
