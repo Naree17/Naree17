@@ -51,6 +51,80 @@ valuable team member.
 
 </div>
 
+### 🎌 Japanese-Language Proficiency Test (2025)
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>Page : Login</b><br>
+      <img src="login.png" width="100%" alt="Login Page">
+    </td>
+    <td width="33%" valign="top">
+      <b>Page : Edit Profile</b><br>
+      <img src="edit_profile.png" width="100%" alt="Edit Profile Page">
+    </td>
+    <td width="34%" rowspan="2" valign="top">
+      <b>📄 Overview</b><br>
+      A web application for simulating the JLPT exam, focusing on a clean, comfortable, and user-friendly UI/UX to help users study and review vocabulary efficiently.<br><br>
+      <b>🙋‍♀️ My Role & Responsibilities</b><br>
+      <b>Role:</b> Full-Stack Developer<br>
+      <b>Responsibilities:</b> Handled the end-to-end development of the Login, Edit Profile, and Vocabulary Practice sections.<br><br>
+      <b>Programming Languages:</b><br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"><br><br>
+      <b>Tools:</b> Eclipse, MySQL Workbench
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <b>Page : Vocabulary Practice sections</b><br>
+      <img src="pa2.png" width="100%" alt="Vocabulary Practice Page">
+    </td>
+    <td width="33%" valign="top">
+      <!-- สามารถเพิ่มรูปที่ 4 ตรงนี้ได้ครับ หากไม่มีปล่อยว่างไว้ได้เลย -->
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### 🛵 Campus Food Delivery System (2025 - 2026)
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>Page : Restaurant Module</b><br>
+      <img src="rest1.png" width="100%" alt="Restaurant Module">
+    </td>
+    <td width="33%" valign="top">
+      <b>Page : Admin Dashboard</b><br>
+      <img src="rest2.png" width="100%" alt="Admin Dashboard">
+    </td>
+    <td width="34%" rowspan="2" valign="top">
+      <b>📄 Overview</b><br>
+      An on-campus food ordering system created to provide an easy-to-use interface for students, university staff, merchants, and delivery riders.<br><br>
+      <b>🙋‍♀️ My Role & Responsibilities</b><br>
+      <b>Role:</b> Full-Stack Developer<br>
+      <b>Responsibilities:</b> Developed both frontend and backend systems for the Restaurant and Admin modules.<br><br>
+      <b>Programming Languages:</b><br>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"><br><br>
+      <b>Tools:</b> VS Code, IntelliJ IDEA, pgAdmin4, Postman
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <!-- สามารถเพิ่มรูปที่ 3 ตรงนี้ได้ครับ -->
+    </td>
+    <td width="33%" valign="top">
+      <!-- สามารถเพิ่มรูปที่ 4 ตรงนี้ได้ครับ -->
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📈 GitHub Stats
