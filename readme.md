@@ -100,7 +100,8 @@ valuable team member.
     </td>
     <td width="33%" valign="top">
       <b>Page : Admin Dashboard</b><br>
-      <img src="admim1.png" width="100%" alt="Admin Dashboard">
+      <img src="admin1.png" width="100%" alt="Admin Dashboard"><br>
+      <img src="admin22.png" width="100%" alt="Admin Dashboard">
     </td>
     <td width="34%" rowspan="2" valign="top">
       <b>📄 Overview</b><br>
@@ -116,14 +117,7 @@ valuable team member.
       <b>Tools:</b> VS Code, IntelliJ IDEA, pgAdmin4, Postman
     </td>
   </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <!-- สามารถเพิ่มรูปที่ 3 ตรงนี้ได้ครับ -->
-    </td>
-    <td width="33%" valign="top">
-      <!-- สามารถเพิ่มรูปที่ 4 ตรงนี้ได้ครับ -->
-    </td>
-  </tr>
+
 </table>
 ---
 
