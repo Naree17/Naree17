@@ -1,7 +1,6 @@
-<!-- Banner / Cover -->
-<!-- <p align="center">
-  <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="header image" />
-</p> -->
+<p align="center">
+  <img src="Gemini_Generated_Image_xt9vunxt9vunxt9v.png" alt="Frontend Developer Banner" width="100%" />
+</p>
 
 <div align="center">
 
