@@ -55,8 +55,8 @@ valuable team member.
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Naree17&show_icons=true&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Naree17&layout=compact&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Naree17&show_icons=true&hide_border=true&count_private=true&theme=transparent&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Naree17&layout=compact&hide_border=true&count_private=true&theme=transparent&bg_color=00000000" />
 </div>
 
 ---
