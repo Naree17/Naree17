@@ -42,16 +42,8 @@ valuable team member.
 ---
 
 ## 📌 Featured Projects
-<div align="center">
 
-| Project | Tech | Highlights | Links |
-|---------|------|-----------|-------|
-| **Campus food delivery** | Flutter · Java SpringBoot · PostgreSQL | Duo Project Mobile | [Repo](https://github.com/Naree17/campus-food-delivery) |
-| **Japanese-Language Proficiency Test** | JSP · Java SpringBoot · MySQL | Duo Project Website | [Repo](https://github.com/Naree17/jlpt-web-project) |
-
-</div>
-
-### 🎌 Japanese-Language Proficiency Test (2025)
+### 🎌 Japanese-Language Proficiency Test (2025 | Year 3, Semester 1)
 
 <table>
   <tr>
@@ -66,6 +58,8 @@ valuable team member.
     <td width="34%" rowspan="2" valign="top">
       <b>📄 Overview</b><br>
       A web application for simulating the JLPT exam, focusing on a clean, comfortable, and user-friendly UI/UX to help users study and review vocabulary efficiently.<br><br>
+      <b>✨ Highlights:</b> Duo Project Website<br>
+      <b>🔗 Links:</b> <a href="https://github.com/Naree17/jlpt-web-project">Repository</a><br><br>
       <b>🙋‍♀️ My Role & Responsibilities</b><br>
       <b>Role:</b> Full-Stack Developer<br>
       <b>Responsibilities:</b> Handled the end-to-end development of the Login, Edit Profile, and Vocabulary Practice sections.<br><br>
@@ -90,7 +84,7 @@ valuable team member.
 
 <br>
 
-### 🛵 Campus Food Delivery System (2025 - 2026)
+### 🛵 Campus Food Delivery System (2025 - 2026 | Year 3, Semester 2 & Year 4, Semester 1)
 
 <table>
   <tr>
@@ -106,6 +100,9 @@ valuable team member.
     <td width="34%" rowspan="2" valign="top">
       <b>📄 Overview</b><br>
       An on-campus food ordering system created to provide an easy-to-use interface for students, university staff, merchants, and delivery riders.<br><br>
+      <b>✨ Highlights:</b> Duo Project Mobile<br>
+      <b>🔗 Links:</b> <a href="https://github.com/Naree17/campus-food-delivery">Repository</a><br><br>
+      <b>🔗 Links:</b> <a href="https://drive.google.com/file/d/1TNKsX6Z7uN_CSc0G0atfsimQYdUx0nIE/view?usp=sharing">SRS_Campus Food Delivery System</a><br><br>
       <b>🙋‍♀️ My Role & Responsibilities</b><br>
       <b>Role:</b> Full-Stack Developer<br>
       <b>Responsibilities:</b> Developed both frontend and backend systems for the Restaurant and Admin modules.<br><br>
@@ -119,6 +116,7 @@ valuable team member.
   </tr>
 
 </table>
+
 ---
 
 ## 📈 GitHub Stats
@@ -135,5 +133,3 @@ valuable team member.
 - 💌 Email: 098579kl@gmail.com 
 - 📝 Resume: [View Resume](https://drive.google.com/file/d/1z09FeWqz4-xuOQt_TLT_BcdSrcQoo01Q/view?usp=sharing)
 - 🐦 Facebook: [Na Ree](https://www.facebook.com/naree.saeyang.12)
-
-
