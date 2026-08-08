@@ -133,7 +133,7 @@ valuable team member.
 > **“Great products are built by great people working together.”**
 
 - 💌 Email: 098579kl@gmail.com 
-- 📝 Resume: [View Resume](https://drive.google.com/file/d/1LpuSi9iwIGE24b-ztPjWMuPsHQDaOvYa/view?usp=sharing)
+- 📝 Resume: [View Resume](https://drive.google.com/file/d/1z09FeWqz4-xuOQt_TLT_BcdSrcQoo01Q/view?usp=sharing)
 - 🐦 Facebook: [Na Ree](https://www.facebook.com/naree.saeyang.12)
 
 
