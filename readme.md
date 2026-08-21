@@ -126,10 +126,10 @@ valuable team member.
 ---
 
 ## 📈 GitHub Stats
-<div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Naree17&show_icons=true&hide_border=true&count_private=true&theme=transparent&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Naree17&layout=compact&hide_border=true&count_private=true&theme=transparent&bg_color=00000000" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=Naree17&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=0" />
+  <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Naree17&layout=compact&theme=default&hide_border=true&langs_count=6&cache_seconds=0" />
+</p>
 
 ---
 
