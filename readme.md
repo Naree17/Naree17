@@ -9,10 +9,8 @@
 
 </div>
 
-<p align="center">
-  <strong>Frontend Developer • UI/UX Enthusiast • Lifelong Learner</strong><br/>
-  <em>“Crafting delightful, pixel-perfect, and engaging web experiences.”</em>
-</p>
+Full-Stack Developer • UI/UX Enthusiast • Lifelong Learner
+“Building robust backend architectures and delightful, pixel-perfect frontend experiences.”
 
 ---
 
