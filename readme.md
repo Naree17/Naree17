@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="Gemini_Generated_Image_xt9vunxt9vunxt9v.png" alt="Frontend Developer Banner" width="100%" />
-</p>
+</p> -->
 
 <div align="center">
 
