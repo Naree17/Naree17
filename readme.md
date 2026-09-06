@@ -8,7 +8,6 @@
 ### IT Student of Maejo University
 
 </div>
-<p align="center">
 
   <strong>Full-Stack Developer • UI/UX Enthusiast • Lifelong Learner</strong><br/>
 
