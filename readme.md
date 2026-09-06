@@ -8,10 +8,13 @@
 ### IT Student of Maejo University
 
 </div>
+<p align="center">
 
-Full-Stack Developer • UI/UX Enthusiast • Lifelong Learner
-“Building robust backend architectures and delightful, pixel-perfect frontend experiences.”
+  <strong>Full-Stack Developer • UI/UX Enthusiast • Lifelong Learner</strong><br/>
 
+  <em>“Building robust backend architectures and delightful, pixel-perfect frontend experiences.”</em>
+
+</p>
 ---
 
 ## 🚀 About Me
