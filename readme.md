@@ -5,15 +5,15 @@
 <div align="center">
 
 # ✧ N A R E E ✧
-### IT Student of Maejo University
-
-</div>
+### IT Student of Maejo University<br/>
 
   <strong>Full-Stack Developer • UI/UX Enthusiast • Lifelong Learner</strong><br/>
 
   <em>“Building robust backend architectures and delightful, pixel-perfect frontend experiences.”</em>
 
 </p>
+</div>
+
 ---
 
 ## 🚀 About Me
